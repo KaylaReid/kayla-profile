@@ -1,0 +1,88 @@
+body {
+ background-color: #f2d9e6;
+}
+
+.head-home {
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  font-size: 60px;
+  margin: 30px;
+}
+.head-resume {
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  font-size: 60px;
+  margin: 30px;
+}
+.head-places {
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  font-size: 60px;
+  margin: 30px;
+}
+.head-contact {
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  font-size: 60px;
+  margin: 30px;
+}
+
+.card {
+  display: flex;
+  width: 90%;
+  height: 70%;
+  border: #3d4550 10px groove;
+  border-radius: 20px;
+  margin: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #038e9f;
+  font-family: 'Amatic SC', cursive;
+  font-size: 40px;
+  text-shadow: black 2px 2px;
+  text-align: center;
+  color: darkgrey;
+  
+}
+
+#see-places {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  margin: 30px auto;
+  box-shadow: black 5px 5px 5px;
+  width: 20%;
+  padding: 24px 24px 24px 24px;
+  border-radius: 50%;
+  color: dimgrey;
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  border: dimgrey 2px solid;
+  background: radial-gradient(white, dimgrey)
+}
+
+#profileimg {
+  display: flex;
+  width: 60%;
+  height: 100%;
+  border: #3d4550 10px groove;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  border-radius: 20px;
+/*   border: #696969 15px groove; */
+}
+.about-me {
+  margin: 40px;
+  font-family: 'Amatic SC', cursive;
+  font-size: 25px;
+  color: dimgrey bold;
+  text-align: center;
+}
+.nav-item {
+  color: green;
+  
+}
+.navbar-brand {
+   color: green;
+}
