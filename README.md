@@ -1,2 +1,2 @@
-# kayla-profile
-## My first coding project
+# My first coding project 
+## This is a personal bio page I created in NSS Jumpstart
